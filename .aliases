@@ -1,0 +1,7 @@
+alias ll='ls -la'
+alias gs='git status'
+alias gp='git push'
+alias gd='git diff'
+alias v='vim'
+alias h='history'
+alias ..='cd ..'
